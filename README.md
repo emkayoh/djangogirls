@@ -1,0 +1,2 @@
+# djangogirls
+Manchester Djangogirls blog
